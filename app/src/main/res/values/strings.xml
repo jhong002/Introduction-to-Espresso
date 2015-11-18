@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExpressoExample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="set_toolbar_title">Set toolbar title</string>
+    <string name="set_textview">Set Textview text</string>
+    <string name="test_toolbar">Toolbar Test String</string>
+    <string name="test_me">Test me!</string>
+    <string name="test_textview">TextView Test String</string>
+</resources>
